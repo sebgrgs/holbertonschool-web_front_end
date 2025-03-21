@@ -197,10 +197,9 @@ h1, h2, h3, h4, h5, h6 {
 
 [data-section-theme="dark"] {
 	--text-color:var(--color-white);
-	--selection-title-color:var(--color-white);
+	--selection-title-color: var(--color-white);
 	background-color: var(--color-black);
-}
-	
+}	
 
 .footer {
     padding: var(--footer-padding);
